@@ -7,7 +7,7 @@ Modification des informations des produits existants.
 Suppression de produits du stock.
 Affichage de la liste de tous les produits disponibles avec leurs détails.
 Recherche de produits par nom ou catégorie.
-Fonctionnalités de gestion des commandes :
+# Fonctionnalités de gestion des commandes :
 Ajout de produits au panier.
 Modification de la quantité des produits dans le panier.
 Suppression de produits du panier.
