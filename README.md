@@ -18,3 +18,8 @@ Assurez-vous d'avoir un serveur Java EE tel que Apache Tomcat installé sur votr
 Importez le projet dans votre IDE Java EE (par exemple, Eclipse, IntelliJ IDEA).
 Configurez votre serveur Tomcat dans l'IDE et déployez le projet sur le serveur.
 Accédez à l'application en ouvrant votre navigateur web et en entrant l'URL de votre serveur Tomcat suivi du contexte de l'application (par exemple, http://localhost:8080/nom_du_projet).
+# ScreenShots :
+![C2](https://github.com/marm369/Ecommerce/assets/126961765/f7291314-e490-4677-bdbb-ebf47391d903)
+
+![C1](https://github.com/marm369/Ecommerce/assets/126961765/e62c9877-e67e-4505-b037-94069834bfaf)
+![C3](https://github.com/marm369/Ecommerce/assets/126961765/c1a35b21-9043-4fa9-8563-214cfdf72900)
